@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\GitHub\SiAOD_Labs\LABA_1\LABA_1\main.cpp(127,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\GitHub\SiAOD_Labs\LABA_1\LABA_1\main.cpp(64): warning C4715: childCount: значение возвращается не при всех путях выполнения
+  LABA_1.vcxproj -> C:\GitHub\SiAOD_Labs\LABA_1\x64\Debug\LABA_1.exe
